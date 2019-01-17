@@ -39,7 +39,8 @@ def fixup(node, key, pairs):
 def fixup(*args):
     pass
 
-ALL = ('clusterrolebindings',
+ALL = ('cj',
+       'clusterrolebindings',
        'clusterroles',
        'cm',
        'controllerrevisions',
